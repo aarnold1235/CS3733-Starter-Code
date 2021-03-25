@@ -25,8 +25,7 @@ public class Main {
     System.out.println("Branch - Drew_A_Branch");
 
     System.out.println("David_Feature_Fix");
-    System.out.println("Yang Chen")
 
-    System.out.println("Feature")
+    System.out.println("Yang_Feature")
   }
 }
