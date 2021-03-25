@@ -11,7 +11,6 @@ public class Main {
      */
     System.out.println("Team Member Names Below:");
     System.out.println("Michael Clements");
-    System.out.println("Rohan Anand");
     System.out.println("Team Coach: Michael Clements");
 
   }
