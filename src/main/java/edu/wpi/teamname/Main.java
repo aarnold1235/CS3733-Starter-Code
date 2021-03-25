@@ -15,4 +15,8 @@ public class Main {
     System.out.println("Team Coach: Michael Clements");
 
   }
+
+  public void griffin(){
+    System.out.println("Branch - Griffin Atchue");
+  }
 }
