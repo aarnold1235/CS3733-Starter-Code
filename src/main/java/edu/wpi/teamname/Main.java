@@ -20,10 +20,6 @@ public class Main {
 
     System.out.println("David Fournet");
     System.out.println("Rohan Anand");
-    System.out.println("Branch - David_Fournet_Feature");
-  }
-
-  public void griffin(){
-    System.out.println("Branch - Griffin Atchue");
+    System.out.println("Yang Chen");
   }
 }
